@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+
+# Executables
+*.exe
+
+# Logs
+*.log
